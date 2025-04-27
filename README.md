@@ -1,12 +1,62 @@
-# React + Vite
+# LockyPass | React Password Generator 🔒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and powerful password generator built with React.js!  
+Quickly create strong, secure passwords with customizable options.
+[View Live](https://lockypass.netlify.app/)
+## 🚀 Features
 
-Currently, two official plugins are available:
+- Generate strong random passwords
+- Customize password length
+- Include/exclude:
+  - Numbers
+  - Uppercase letters
+  - Lowercase letters
+  - Special characters
+- Copy password to clipboard
+- Lightweight, fast, and responsive
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js (Vite setup)
+- Tailwind CSS for styling
+- JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/iamhassanhafeez/reactpasswordgen.git
+cd reactpasswordgen
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🎯 Usage
+
+- Open the app in your browser
+- Select desired password options (length, characters)
+- Click "Generate Password"
+- Click "Copy" to save your password to the clipboard!
+
+## 📸 Screenshots
+
+> ![App Screenshot](https://i.ibb.co/1fPZcVm2/Screenshot-from-2025-04-27-18-43-23.png)
+
+## 🌟 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork the repo and submit a Pull Request. 🤝
+---
+
+Made with ❤️ by [Hassan Hafeez](https://github.com/iamhassanhafeez)
