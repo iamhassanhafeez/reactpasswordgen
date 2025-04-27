@@ -3,6 +3,7 @@
 A sleek and powerful password generator built with React.js!  
 Quickly create strong, secure passwords with customizable options.
 [View Live](https://lockypass.netlify.app/)
+
 ## 🚀 Features
 
 - Generate strong random passwords
@@ -53,10 +54,13 @@ npm run dev
 
 > ![App Screenshot](https://i.ibb.co/1fPZcVm2/Screenshot-from-2025-04-27-18-43-23.png)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/318492b6-5643-406d-83ed-9a141f6cfae1/deploy-status)](https://app.netlify.com/sites/lockypass/deploys)
+
 ## 🌟 Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repo and submit a Pull Request. 🤝
+
 ---
 
 Made with ❤️ by [Hassan Hafeez](https://github.com/iamhassanhafeez)
